@@ -17,11 +17,11 @@ A high-performance, multithreaded TCP File Server built entirely in Python. This
 TCP-File-Serve/
 │
 ├── file_server/
-│   ├── client_workspace/    # 📥 Local files ready for upload/download
-│   ├── server_storage/      # 📤 Remote server directory holding live assets
-│   ├── client.py            # 💻 Interactive socket consumer client runtime 
-│   └── server.py            # ⚙️ Asynchronous TCP listening hub entrypoint
-└── README.md                # 📖 System setup guide documentation
+│   ├── client_workspace/    #  Local files ready for upload/download
+│   ├── server_storage/      #  Remote server directory holding live assets
+│   ├── client.py            #  Interactive socket consumer client runtime 
+│   └── server.py            #  Asynchronous TCP listening hub entrypoint
+└── README.md                #  System setup guide documentation
 ```
 
 ---
