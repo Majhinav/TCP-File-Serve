@@ -43,7 +43,7 @@ python3 file_server/client.py
 
 ---
 
-## 🎮 Command Interface Execution Usage
+##  Command Interface Execution Usage
 
 Once connected via the client node workspace interface panel console system loop tracking, you can trigger these operations inside the console interface environment manually:
 
